@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amazon/static/css/main.3b985b32.css",
+    "main.js": "/amazon/static/js/main.9581b2b3.js",
+    "static/js/988.28e5e195.chunk.js": "/amazon/static/js/988.28e5e195.chunk.js",
+    "static/media/slide1.jpg": "/amazon/static/media/slide1.8c475927bb85b4a7047c.jpg",
+    "static/media/slide3.jpg": "/amazon/static/media/slide3.4fb2752ccace63ff78e9.jpg",
+    "static/media/slide2.jpg": "/amazon/static/media/slide2.da18e781963cc836a613.jpg",
+    "static/media/gift.jpg": "/amazon/static/media/gift.280f987a273a29161581.jpg",
+    "static/media/logo.png": "/amazon/static/media/logo.0c748dd516206d484a99.png",
+    "static/media/sofa.jpg": "/amazon/static/media/sofa.a60bca9452405fcd187a.jpg",
+    "static/media/m9.jpg": "/amazon/static/media/m9.e8e77f08ba02a55d65e5.jpg",
+    "static/media/anotherlap.jpg": "/amazon/static/media/anotherlap.c0ee14175eeafdb1f686.jpg",
+    "static/media/echo.jpg": "/amazon/static/media/echo.c6b4a6d5696036e09f37.jpg",
+    "static/media/post.jpg": "/amazon/static/media/post.08da040337758b8bcb1e.jpg",
+    "index.html": "/amazon/index.html",
+    "main.3b985b32.css.map": "/amazon/static/css/main.3b985b32.css.map",
+    "main.9581b2b3.js.map": "/amazon/static/js/main.9581b2b3.js.map",
+    "988.28e5e195.chunk.js.map": "/amazon/static/js/988.28e5e195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b985b32.css",
+    "static/js/main.9581b2b3.js"
+  ]
+}
